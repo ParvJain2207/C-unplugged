@@ -1,0 +1,30 @@
+ALBUM 1 KA
+SONG 1 Bandana Shubh 5
+SONG 3 Tension Diljit 10
+SONG 14 Adhiya Karan_Aujla 200
+SONG 18 Softly Karan_Aujla 220
+SONG 16 ProperPatola Diljit 190
+SONG 8 Reflection Karan_Aujla 190
+END
+ALBUM 2 Shubh
+SONG 2 Wavy Karan_Aujla 3
+SONG 1 Bandana Shubh 5
+SONG 19 Cheques Shubh 200
+SONG 19 Cheques Shubh 200
+END
+ALBUM 3 mood
+SONG 11 TheseDays Sidhu 240
+SONG 5 GOAT Diljit 240
+SONG 1 Bandana Shubh 250
+SONG 13 NoLove Shubh 180
+SONG 17 JattDaMuqabla Sidhu 210
+SONG 10 BornToShine Diljit 210
+END
+ALBUM 4 Upliftmood
+SONG 17 JattDaMuqabla Sidhu 210
+SONG 20 HisStory Diljit 230
+SONG 18 Softly Karan_Aujla 220
+SONG 4 TakeItEasy Karan_Aujla 215
+SONG 6 StillRollin Shubh 200
+SONG 11 TheseDays Sidhu 240
+END
