@@ -1,4 +1,4 @@
-#C-Unplugged: Music Player
+C-Unplugged: Music Player
 Instructions to run program:
 *To run:
 1) make
